@@ -11,12 +11,4 @@ int faculteit(int n)
     return res;
 }
 
-int main()
-{
-    int n;
-
-    printf("Please enter the value of n.\n");
-    scanf("%d", &n);
-
-    return faculteit(n);
-}
+Ik heb de main functie verwijderd.
